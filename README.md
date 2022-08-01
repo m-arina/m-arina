@@ -1,4 +1,4 @@
-<img align="right" alt="kirby" height="200em" width="200em" src="https://cdn.discordapp.com/attachments/785390806470230056/1003761752015638621/kirby.gif">
+<img align="right" alt="kirby" height="180em" width="180em" src="https://cdn.discordapp.com/attachments/785390806470230056/1003761752015638621/kirby.gif">
 
 ## Bom dia, meu nome é Marina Liz 🎆
 
@@ -6,13 +6,13 @@
   <p>▸ 👩‍💻 Atualmente estou no último ano do ensino médio integrado com técnico <br>em Desenvolvimento de Sistemas</p>
   <p>▸ 🎨 Apesar de estudar DS, quero cursar Design Gráfico</p>
 </div>
-  
+ <br>
 <div>
   <a href="https://github.com/m-arina">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-arina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=radical"/>
   </a>
-</div><br>
+</div>
 
 ##
 
