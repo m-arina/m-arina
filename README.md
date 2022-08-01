@@ -1,4 +1,4 @@
-<img align="right" alt="kirby" height="180em" width="180em" src="https://cdn.discordapp.com/attachments/785390806470230056/1003761752015638621/kirby.gif">
+<img align="right" alt="kirby" height="170em" width="170em" src="https://cdn.discordapp.com/attachments/785390806470230056/1003761752015638621/kirby.gif">
 
 ## Bom dia, meu nome é Marina Liz 🎆
 
