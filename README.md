@@ -6,7 +6,7 @@
   <p>▸ 👩‍💻 Atualmente estou no último ano do ensino médio integrado com técnico <br>em Desenvolvimento de Sistemas</p>
   <p>▸ 🎨 Apesar de estudar DS, quero cursar Design Gráfico</p>
 </div>
- <br>
+
 <div>
   <a href="https://github.com/m-arina">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-arina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<br>
+##
 
 <div>
   <p>▸ 📚 Skills </p>
