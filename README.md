@@ -3,7 +3,7 @@
 ## Bom dia, meu nome é Marina Liz 🎆
 
 <div>
-  <p>▸ 👩‍💻 Atualmente estou no último ano do ensino médio integrado com técnico <br>em Desenvolvimento de Sistemas</p>
+  <p>▸ 🌱 Aprendendo e se esforçando a cada dia pra ter um crescimento contínuo</p>
   <p>▸ 🎨 Apesar de estudar DS, quero cursar Design Gráfico</p>
 </div>
 
