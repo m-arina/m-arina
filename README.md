@@ -1,4 +1,4 @@
-<img align="right" alt="chihiro" height="180em" width="180em" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif">
+<img align="right" alt="chihiro" height="180em" width="180em" style="margin-left: 10px" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif">
 
 <!--https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif -->
 <!-- https://c.tenor.com/3ffP5mL1yJUAAAAi/pokemon-vaporeon.gif -->
@@ -8,16 +8,16 @@
 <div>
   <p>▸ 🔎 Nesse momento estou aprofundando os estudos em JS e aprendendo sobre React</p>
   <p>▸ 🎨 Apesar de estudar DS, quero cursar design (UI/UX ou gráfico)</p>
-  <p>▸ 🌱Aprendendo e se esforçando a cada dia pra ter um crescimento contínuo</p>
+  <p>▸ 🌱 Aprendendo e se esforçando a cada dia pra ter um crescimento contínuo</p>
 
 </div>
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/m-arina">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=github_dark"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
 
@@ -25,7 +25,6 @@
 
 <div>
   <p>▸ 📚 Skills </p>
-
   <img alt="H-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="H-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="H-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -41,7 +40,6 @@
 
 <div>
   <p>▸ 🔗 Contato </p>
-
   <a href="https://instagram.com/_marinaliz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:somarinaliz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-oliveira-7653041b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
