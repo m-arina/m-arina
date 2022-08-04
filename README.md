@@ -1,4 +1,4 @@
-<img align="right" alt="chihiro" height="160em" width="160em" style="margin-top: 40px" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif">
+<img align="right" alt="chihiro" height="160em" width="160em" style="margin-top: 100px" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif">
 
 <!--https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif -->
 <!-- https://c.tenor.com/3ffP5mL1yJUAAAAi/pokemon-vaporeon.gif -->
