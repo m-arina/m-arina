@@ -1,6 +1,9 @@
-<img align="right" alt="nyan cat" height="200em" width="200em" src="https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif">
+<img align="right" alt="chihiro" height="200em" width="200em" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif">
 
-## Bom dia, meu nome é Marina Liz 💙
+<!--https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif -->
+<!-- https://c.tenor.com/3ffP5mL1yJUAAAAi/pokemon-vaporeon.gif -->
+
+## Bom dia, meu nome é Marina Liz.
 
 <div>
   <p>▸ 🔎 Nesse momento estou aprofundando os estudos em JS e aprendendo sobre React</p>
@@ -13,8 +16,8 @@
 
 <div align="left">
   <a href="https://github.com/m-arina">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
 
