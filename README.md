@@ -7,9 +7,9 @@
 ## Bom dia, meu nome é Marina Liz.
 
 <div>
-  <p>▸ 🔎 Nesse momento estou aprofundando os estudos em JS e aprendendo sobre React.</p>
+  <p>▸ 🔎 Nesse momento estou aprofundando os estudos em JS e aprendendo sobre React</p>
   <p>▸ 🎨 Apesar de estudar DS, quero cursar design (UI/UX ou gráfico)</p>
-  <p>▸ 🌱 Aprendendo e se esforçando a cada dia pra ter um crescimento contínuo.</p>
+  <p>▸ 🌱 Se esforçando a cada dia pra ter um crescimento contínuo</p>
 
 </div>
 
