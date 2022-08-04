@@ -1,18 +1,20 @@
-<img align="right" alt="kirby" height="160em" width="160em" src="https://cdn.discordapp.com/attachments/785390806470230056/1003761752015638621/kirby.gif">
+<img align="right" alt="nyan cat" height="200em" width="200em" src="https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif">
 
-## Bom dia, meu nome é Marina Liz 🎆
+## Bom dia, meu nome é Marina Liz 💙
 
 <div>
-  <p>▸ 🌱 Aprendendo e se esforçando a cada dia pra ter um crescimento contínuo</p>
-  <p>▸ 🎨 Apesar de estudar DS, quero cursar Design Gráfico</p>
+  <p>▸ 🔎 Nesse momento estou aprofundando os estudos em JS e aprendendo sobre React</p>
+  <p>▸ 🎨 Apesar de estudar DS, quero cursar design (UI/UX ou gráfico)</p>
+  <p>▸ 🌱Aprendendo e se esforçando a cada dia pra ter um crescimento contínuo</p>
+
 </div>
 
-##
+<br>
 
 <div>
   <a href="https://github.com/m-arina">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m-arina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=radical"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
