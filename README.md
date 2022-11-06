@@ -1,47 +1,38 @@
+<p align="left">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=m-arina&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=m-arina&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arina&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=m-arina&theme=tokyo-night&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+</p>
 
-<img align="right" alt="chihiro" width="350px" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif">
 
-<!--https://c.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif -->
-<!-- https://c.tenor.com/3ffP5mL1yJUAAAAi/pokemon-vaporeon.gif -->
 
-## Bom dia, meu nome é Marina Liz.
-
-<div>
-  <p>▸ 🔎 Nesse momento estou aprofundando os estudos em JS</p>
-  <p>▸ 🎨 Apesar de estudar DS, quero cursar design (UI/UX ou gráfico)</p>
-  <p>▸ 🌱 Se esforçando a cada dia pra ter um crescimento contínuo</p>
-
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/m-arina">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marina&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-arina&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+<img align="right" alt="chihiro" width="350px" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif%22%3E">
+                                                    
+## sobre mim
+<p align="justify">
+  Apenas uma estudante de análise e desenvolvimento de sistemas na ETEC Guaianases com o objetivo de me profissionalizar na área de web design (gráfico e UI/UX). Nesse momento estou aprofundando os estudos em JavaScript e me esforçando a cada dia para ter um crescimento contínuo. Quando não estou estudando, sou uma entusiasta de jogos, filmes e Studio Ghibli. 💙
+</p>
 
 <br>
 
-<div>
-  <p>▸ 📚 Skills </p>
-  <img alt="H-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="H-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="H-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="H-Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img alt="H-Reacti-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
-  <img alt="H-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="H-PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="H-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="H-SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-</div>
+## skills e techs
+<p align="justify">
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img alt="Bootstrap CSS" src="https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap">
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%230d1117.svg?style=for-the-badge&logo=figma&logoColor=23F24E1E">
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%230d1117.svg?style=for-the-badge&logo=react&logoColor=2320232a">
+  <img alt="PHP" src="https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php&logoColor=%23777BB4">
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql&logoColor=2300f">
+</p>
 
 <br>
 
-<div>
-  <p>▸ 🔗 Contato </p>
-  <a href="https://instagram.com/_marinaliz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:somarinaliz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marina-oliveira-7653041b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## contato
+<p align="justify">
+  <a href="https://www.linkedin.com/in/somarinaliz/%22%3E"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href = "mailto:somarinaliz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230d1117?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a>
+  <a href="https://www.instagram.com/_marinaliz%22%3E"><img src="https://img.shields.io/badge/_marinaliz-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"></a>
+</p>
+  
