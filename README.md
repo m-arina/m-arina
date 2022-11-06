@@ -7,14 +7,14 @@
 
 <img align="right" alt="chihiro" width="350px" src="https://c.tenor.com/XqJMTqAM2rgAAAAi/flying-falling.gif%22%3E">
                                                     
-## sobre mim
+## ‣ sobre mim
 <p align="justify">
   Apenas uma estudante de análise e desenvolvimento de sistemas na ETEC Guaianases com o objetivo de me profissionalizar na área de web design (gráfico e UI/UX). Nesse momento estou aprofundando os estudos em JavaScript e me esforçando a cada dia para ter um crescimento contínuo. Quando não estou estudando, sou uma entusiasta de jogos, filmes e Studio Ghibli. 💙
 </p>
 
 <br>
 
-## skills e techs
+## ‣ skills e techs
 <p align="justify">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
@@ -25,12 +25,11 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql&logoColor=2300f">
 </p>
 
-<br>
 
-## contato
+## ‣ contato
 <p align="justify">
-  <a href="https://www.linkedin.com/in/somarinaliz/%22%3E"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
+  <a href="https://www.linkedin.com/in/somarinaliz/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
   <a href = "mailto:somarinaliz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230d1117?style=for-the-badge&logo=gmail&logoColor=D14836" target="_blank"></a>
-  <a href="https://www.instagram.com/_marinaliz%22%3E"><img src="https://img.shields.io/badge/_marinaliz-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"></a>
+  <a href="https://www.instagram.com/_marinaliz"><img src="https://img.shields.io/badge/_marinaliz-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"></a>
 </p>
   
