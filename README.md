@@ -9,7 +9,7 @@
                                                     
 ## ‣ sobre mim
 <p align="justify">
-  Apenas uma estudante de desenvolvimento de sistemas na ETEC Guaianases com o objetivo de me profissionalizar na área de web design (gráfico e UI/UX). Nesse momento estou aprofundando os estudos em JavaScript e me esforçando a cada dia para ter um crescimento contínuo. Quando não estou estudando, sou uma entusiasta de jogos, filmes e Studio Ghibli. 💙
+  Apenas uma garota que recentemente concluiu o ensino médio integrado com o técnico de desenvolvimento de sistemas na ETEC Guaianases. Tenho o objetivo de me profissionalizar na área de front-end e web design (digital e UI/UX) e nesse momento estou aprofundando os estudos em JavaScript e me esforçando a cada dia para ter um crescimento contínuo. Quando não estou estudando, sou uma entusiasta de jogos, filmes e Studio Ghibli. 💙
 </p>
 
 <br>
