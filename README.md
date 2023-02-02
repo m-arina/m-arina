@@ -1,6 +1,6 @@
 <p align="left">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=m-arina&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=m-arina&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
-   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arina&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=m-arina&theme=tokyo-night&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph"/></a>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-arina&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/></a>
 </p>
 
 <br>
