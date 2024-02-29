@@ -8,7 +8,7 @@
                                                     
 ## ‣ sobre mim
 <p align="justify">
-  Bom, recentemente conclui o ensino médio integrado com o técnico de desenvolvimento de sistemas na ETEC de Guaianazes e agora sou estudante de design gráfico na UMC. Tenho o objetivo de me profissionalizar na área de front-end e web design (digital e UI/UX) e nesse momento estou aprofundando os estudos em design e me esforçando a cada dia para ter um crescimento contínuo. Quando não estou estudando, sou uma entusiasta de jogos, filmes e Studio Ghibli. 💙
+  Olá a todos! sou técnica em desenvolvimento de sistemas pela ETEC de Guaianazes e atualmente sou estudante de design gráfico na UMC. Tenho o objetivo de me profissionalizar na de web design e UI/UX, e nesse momento estou aprofundando os estudos em design e me esforçando a cada dia para ter um crescimento contínuo. Quando não estou estudando, sou uma grande entusiasta de jogos, filmes e Studio Ghibli. 💙
 </p>
 
 <br>
